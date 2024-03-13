@@ -32,3 +32,5 @@ Currently, two official plugins are available:
 # how to update(sent) any global varible defined in global context API from component
 
 {user}= useContxte(UserContext)
+
+This Project is licensed by [Chai Aur Code](https://www.youtube.com/@chaiaurcode)
